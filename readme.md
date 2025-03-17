@@ -1,5 +1,3 @@
-Here's a `README.md` for your repository:  
-
 ```md
 # Free SSL Generator and Renewal Bash Script
 
