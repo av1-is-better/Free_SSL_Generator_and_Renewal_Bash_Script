@@ -1,4 +1,3 @@
-```md
 # Free SSL Generator and Renewal Bash Script
 
 ## Overview
@@ -80,6 +79,3 @@ This project is licensed under the **MIT License**. Feel free to use and modify 
 
 Kunal Yadav
 https://github.com/av1-is-better  
-```
-
-Let me know if you need any modifications! 🚀
